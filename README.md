@@ -1,5 +1,5 @@
 ### Hi! I'm Lucas José 👋
-#🔍 QA Analyst
+# 🔍 QA Analyst
 
 # -  I’m currently working on :
 🍃 **[Behave Project](https://github.com/LucasJoseArantes/Behave_Project)**
