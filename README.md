@@ -1,9 +1,6 @@
 # Hi! I'm Lucas José 👋
 ### 🔍 QA Analyst
 
-### -  💼 I’m currently working on :
-🍃 **[Behave Project](https://github.com/LucasJoseArantes/Behave_Project)**
-
 ### - 🌱 I’m currently learning ...
   🌲 **Cypress**
   🚀 **Spring Boot**
